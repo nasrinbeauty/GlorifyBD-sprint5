@@ -1,0 +1,7 @@
+.caption{
+  height: 156px;
+}
+.product_card:hover{
+
+  transform: scale(1.1);
+}
